@@ -45,3 +45,6 @@ while sair == False:
             else:
                 print(nome_produto, "não existe na lista!")
             input("Precione enter para continuar...")
+        case _ :
+            print("Opção Inválida!")
+            input("Pressione enter para continuar...")
